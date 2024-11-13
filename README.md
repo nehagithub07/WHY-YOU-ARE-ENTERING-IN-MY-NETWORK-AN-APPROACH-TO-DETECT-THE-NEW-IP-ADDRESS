@@ -22,7 +22,7 @@ Returns a dictionary containing IP Address
 
 ## Authors
 
-- [@Shivamrai15](https://github.com/Shivamrai15)
+- [@nehagithub07](https://github.com/nehagithub07)
 
 
 ## Screenshots
