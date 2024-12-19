@@ -43,7 +43,7 @@ class Device:
         url = "https://ip-address-tracker-free.p.rapidapi.com/rapidapi/ip"
         headers = {
             "content-type": "application/octet-stream",
-            "X-RapidAPI-Key": "419d81dfdcmsh2f12208b24c1764p1394f9jsnd4b971252d66",
+            "X-RapidAPI-Key": "YOUR_API_KEY",
             "X-RapidAPI-Host": "ip-address-tracker-free.p.rapidapi.com"
         }
         response = requests.get(url, headers=headers).json()
